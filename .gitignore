@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+#test file
+test.cpp
+
+#build file
+.vscode/
+
 # Compiled Object files
 *.slo
 *.lo
